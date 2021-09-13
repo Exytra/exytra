@@ -27,4 +27,4 @@
   
  
 ### Stats:
-<p><img align="center" src=https://github-readme-stats.vercel.app/api?username=Exytra />
+<p><img align="center" src=https://github-readme-stats.vercel.app/api?username=Exytra&theme=tokyonight&show_icons=true />
