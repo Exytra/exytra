@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: Exytra Selfbot
 - 🌱 I’m currently learning: C++
-- 📫 How to reach me: Discord: DHL#0001
+- 📫 How to reach me: Discord: Exytra#0001
 - 😄 Pronouns: He/Him
 
 ## Os:
