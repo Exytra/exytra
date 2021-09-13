@@ -10,4 +10,4 @@
 
 
 <b>Languages</b>
-<p><img align="center" src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen />
+<p><img align="center" src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen />  <p><img align="center" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen />
