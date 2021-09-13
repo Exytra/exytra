@@ -1,4 +1,4 @@
-### Hello there i'm Exytra 👋
+### About Exytra 👋
 
 - 🔭 I’m currently working on: Exytra Selfbot
 - 🌱 I’m currently learning: C++
