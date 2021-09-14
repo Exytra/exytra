@@ -7,7 +7,7 @@
 
 
   
-                                                                   Languages:
+##                                                                  Languages:
 <p><img align="middle" src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen /> 
 <p<imgalign="middle"src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen/>  
 <p><img align="middle" src=https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen />
