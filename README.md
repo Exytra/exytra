@@ -30,5 +30,5 @@
   
  
                                                                     Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Exytra&theme=monokai)
+![](https://github-readme-stats.vercel.app/api?username=Exytra&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Exytra&theme=monokai) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Exytra&theme=monokai)
