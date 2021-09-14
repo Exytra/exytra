@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning: C++
 - 📫 How to reach me: Discord: Exytra#0001
 - 😄 Pronouns: He/Him
-                                                                    Operating System
+
+
+                                                                    Operating System:
 <p><img align="center" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white />
 
   
@@ -13,7 +15,7 @@
 <p><img align="middle" src=https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen />
 
   
-                                                                    IDE:
+                                                                     IDE:
 <p><img align="center" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
 <p><img align="center" src=https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white />
 
