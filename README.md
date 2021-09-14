@@ -5,7 +5,7 @@
 - 📫 How to reach me: Discord: Exytra#0001
 - 😄 Pronouns: He/Him
 
-                                                                    Operating System:
+                                                                   Operating System:
 <p><img align="center" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white />
 
   
