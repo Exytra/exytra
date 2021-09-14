@@ -27,5 +27,5 @@
   
  
 ### Stats:
-<p><img align="center" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Exytramonokai&theme=vue />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Exytra&theme=monokai)
 <p><img align="center" src=https://github-readme-stats.vercel.app/api?username=Exytra&theme=tokyonight&show_icons=true />
