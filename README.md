@@ -29,5 +29,5 @@
 <p><img align="center" src=https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white />
   
  
-                                                                    Stats:
+##                                                                    Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Exytra&theme=tokyonight)
