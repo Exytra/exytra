@@ -30,4 +30,4 @@
   
  
 ##                                                                    Stats:
-![](https://awesome-github-stats.azurewebsites.net/user-stats/Exytra?cardType=github&theme=dark)](https://git.io/awesome-stats-card)
+![](https://awesome-github-stats.azurewebsites.net/user-stats/Exytra?cardType=github&theme=dark)
