@@ -30,4 +30,4 @@
   
  
 ##                                                                    Stats:
-![](https://github-readme-stats.vercel.app/api?username=Exytra&theme=tokyonight)
+![](https://awesome-github-stats.azurewebsites.net/user-stats/Exytra?cardType=github&theme=dark)](https://git.io/awesome-stats-card)
