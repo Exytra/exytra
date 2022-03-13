@@ -6,7 +6,10 @@
 - 😄 Pronouns: He/Him
 
 
-  
+ ##                                                                    Discord:
+ [<img width="520" src="https://discord.c99.nl/widget/theme-3/798565598225104997.png">](https://discordid.netlify.app/?id=798565598225104997)
+ 
+ 
 ##                                                                    Languages:
 <p><img align="middle" src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen /> 
 <p<imgalign="middle"src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen/>  
@@ -31,7 +34,3 @@
  
 ##                                                                    Stats:
 ![](https://awesome-github-stats.azurewebsites.net/user-stats/Exytra?cardType=github&theme=dark)
-
-
-##                                                                    Discord:
-[<img width="520" src="https://discord.c99.nl/widget/theme-3/798565598225104997.png">](https://discordid.netlify.app/?id=798565598225104997)
