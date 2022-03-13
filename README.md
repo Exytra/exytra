@@ -31,3 +31,7 @@
  
 ##                                                                    Stats:
 ![](https://awesome-github-stats.azurewebsites.net/user-stats/Exytra?cardType=github&theme=dark)
+
+
+##                                                                    Discord:
+[<img width="520" src="https://discord.c99.nl/widget/theme-3/798565598225104997.png">](https://discordid.netlify.app/?id=798565598225104997)
